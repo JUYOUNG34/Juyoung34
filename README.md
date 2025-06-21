@@ -41,9 +41,8 @@
 ## 🎖️ **Certificates**
 
 <div align="center">
-
-![AWS DOP-C02](https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA-Cisco_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![image](https://github.com/user-attachments/assets/63d06b85-2569-4174-89d9-ebe2f968f13d)
+![image](https://github.com/user-attachments/assets/81248016-6950-4b29-b17f-bfc46af04676)
 
 </div>
 
@@ -51,9 +50,9 @@
 
 | 🏆 **자격증** | 📅 **취득일** | 🏢 **자격발행처** |
 |:---:|:---:|:---:|
-| **AWS DOP-C02** | `2024.10` | Amazon Web Services |
+| **AWS DOP-C02** | `2024.10` | Amazon |
+| **CCNP** | `2024.03` | Cisco |
 | **SQLD** | `2024.06` | 한국데이터진흥원 |
-| **CCNA** | `2024.03` | Cisco |
 | **네트워크관리사 2급** | `2022.03` | 한국정보통신자격협회 |
 
 </div>
