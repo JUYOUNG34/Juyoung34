@@ -11,12 +11,12 @@
 
 ## 🛠️ **Tech Stack**
 
-### **Backend & Framework**
+### **Backend & Database**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-
-### **Database & Cache**
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -40,7 +40,9 @@
 | 🏆 **자격증** | 📅 **취득일** | 🏢 **자격발행처** |
 |:---:|:---:|:---:|
 | **AWS DOP-C02** | `2024.10` | Amazon Web Services |
+| **SQLD** | `2024.06` | 한국데이터진흥원 |
 | **CCNA** | `2024.03` | Cisco |
+| **네트워크관리사 2급** | `2022.03` | 한국정보통신자격협회 |
 
 </div>
 
@@ -54,50 +56,5 @@
 
 <br>
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juyoung34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juyoung34&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juyoung34&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<br>
-
-## 🏆 **GitHub Trophies**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juyoung34&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
-</div>
-
-<br>
-
-## 📈 **Activity Graph**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juyoung34&theme=tokyo-night"/>
-</div>
-
-<br>
-
-## 📌 **Contact**
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juyoung34)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Juyoung34&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
-</div>
-
-<div align="center">
-  
-**💫 "코드로 세상을 더 나은 곳으로 만들어가는 개발자" 💫**
 
 </div>
