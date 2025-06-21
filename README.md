@@ -41,24 +41,20 @@
 ## 🎖️ **Certificates**
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/63d06b85-2569-4174-89d9-ebe2f968f13d" width="200" height="200"/>
-<img src="https://github.com/user-attachments/assets/81248016-6950-4b29-b17f-bfc46af04676" width="200" height="200"/>
+<img src="https://github.com/user-attachments/assets/63d06b85-2569-4174-89d9-ebe2f968f13d" width="150"/>
+<img src="https://github.com/user-attachments/assets/81248016-6950-4b29-b17f-bfc46af04676" width="150"/>
 </div>
 
 <div align="center">
 
 | 🏆 **자격증** | 📅 **취득일** | 🏢 **자격발행처** |
 |:---:|:---:|:---:|
-| **AWS DOP-C02** | `2024.10` | Amazon |
-| **CCNP** | `2024.03` | Cisco |
+| **AWS DOP-C02** | `2024.10` | Amazon Web Services |
 | **SQLD** | `2024.06` | 한국데이터진흥원 |
+| **CCNA** | `2024.03` | Cisco |
 | **네트워크관리사 2급** | `2022.03` | 한국정보통신자격협회 |
 
 </div>
 
 <br>
 
-
-  
-
-</div>
