@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Juyoung!;🚀+DevOps+Engineer;☁️+Cloud+%26+Network+Security+Specialist" alt="Typing SVG" />
-</div>
+👋 Hi, I'm Juyoung!
 
 ---
 
@@ -42,7 +40,7 @@
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/63d06b85-2569-4174-89d9-ebe2f968f13d" width="300"/>
-<img src="https://github.com/user-attachments/assets/81248016-6950-4b29-b17f-bfc46af04676" width="150"/>
+<img src="https://github.com/user-attachments/assets/81248016-6950-4b29-b17f-bfc46af04676" width="200"/>
 </div>
 
 <div align="center">
