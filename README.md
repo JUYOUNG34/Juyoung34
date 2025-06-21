@@ -4,10 +4,7 @@
 
 ---
 
-## 🧑🏻‍💻 **About Me**
-**Walk to Work!** 소셜 임팩트(Social Impact)를 실현하는 **걸어가는 개발자** Juyoung입니다.
 
-<br>
 
 ## 🛠️ **Tech Stack**
 
