@@ -38,8 +38,8 @@
 
 ## 🎖️ **Certificates**
 <div align="center">
-<img src="https://github.com/user-attachments/assets/63d06b85-2569-4174-89d9-ebe2f968f13d" width="400" style="margin: 10px;"/>
-<img src="https://github.com/user-attachments/assets/81248016-6950-4b29-b17f-bfc46af04676" width="200" style="margin-left: 20px;"/>
+<img src="https://github.com/user-attachments/assets/63d06b85-2569-4174-89d9-ebe2f968f13d" width="400" style="margin: 8px;"/>
+<img src="https://github.com/user-attachments/assets/81248016-6950-4b29-b17f-bfc46af04676" width="200" style="margin-left: 10px;"/>
 </div>
 
 
