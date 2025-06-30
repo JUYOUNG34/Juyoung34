@@ -38,7 +38,7 @@
 
 ## 🎖️ **Certificates**
 <div align="center">
-<img src="https://github.com/user-attachments/assets/63d06b85-2569-4174-89d9-ebe2f968f13d" width="200" style="margin-right: 5px;"/>
+<img src="https://github.com/user-attachments/assets/63d06b85-2569-4174-89d9-ebe2f968f13d" width="250" style="margin-right: 5px;"/>
 <img src="https://github.com/user-attachments/assets/81248016-6950-4b29-b17f-bfc46af04676" width="150" style="margin-left: 20px;"/>
 </div>
 
