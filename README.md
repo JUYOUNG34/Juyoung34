@@ -37,7 +37,7 @@
 <br>
 
 🎖️ Certificates
-<div style="text-align: center; margin-left: -20px;">
+<div align="center">
 <img src="https://github.com/user-attachments/assets/63d06b85-2569-4174-89d9-ebe2f968f13d" width="350"/>
 <img src="https://github.com/user-attachments/assets/81248016-6950-4b29-b17f-bfc46af04676" width="200"/>
 </div>
@@ -45,10 +45,11 @@
 | 🏆 **자격증** | 📅 **취득일** | 🏢 **자격발행처** |
 |:---:|:---:|:---:|
 | **AWS DOP-C02** | `2024.10` | Amazon Web Services |
-| **CCNA** | `2024.08` | Cisco |
+| **CCNP** | `2024.08` | Cisco |
 | **SQLD** | `2024.06` | 한국데이터진흥원 |
 | **네트워크관리사 2급** | `2022.11` | 한국정보통신자격협회 |
 </div>
+
 
 
 <br>
