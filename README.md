@@ -43,7 +43,7 @@
 </div>
 
 
-<div align="center" style="margin-right: 5px;">
+<div align="center" style="margin-right: 10px;">
 
 | 🏆 **자격증** | 📅 **취득일** | 🏢 **자격발행처** |
 |:---:|:---:|:---:|
