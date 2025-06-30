@@ -43,17 +43,16 @@
 </div>
 
 
-<div align="center" style="margin-right: 10px;">
+<div align="center" style="margin-left: 20px;">
 
 | 🏆 **자격증** | 📅 **취득일** | 🏢 **자격발행처** |
 |:---:|:---:|:---:|
 | **AWS DOP-C02** | `2024.10` | Amazon Web Services |
-| **CCNP** | `2024.08` | Cisco |
+| **CCNA** | `2024.08` | Cisco |
 | **SQLD** | `2024.06` | 한국데이터진흥원 |
 | **네트워크관리사 2급** | `2022.11` | 한국정보통신자격협회 |
 
 </div>
-
 
 
 <br>
