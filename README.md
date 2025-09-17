@@ -44,13 +44,6 @@
 <img src="https://github.com/user-attachments/assets/81248016-6950-4b29-b17f-bfc46af04676" width="200" style="margin-left: 20px;"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="400" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="350" />
-</div>
 
 <div align="center" style="margin-left: 20px;">
 
@@ -64,6 +57,13 @@
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JUYOUNG34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUYOUNG34&theme=tokyonight&hide_border=true" width="400" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUYOUNG34&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="350" />
+</div>
 
 
 
