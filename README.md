@@ -44,6 +44,13 @@
 <img src="https://github.com/user-attachments/assets/81248016-6950-4b29-b17f-bfc46af04676" width="200" style="margin-left: 20px;"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="400" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="350" />
+</div>
 
 <div align="center" style="margin-left: 20px;">
 
@@ -51,6 +58,7 @@
 |:---:|:---:|:---:|
 | **AWS DOP-C02** | `2024.10` | Amazon Web Services |
 | **CCNP** | `2024.08` | Cisco |
+| **정보처리기사** | `2025.07` | 한국산업인력공단 |
 | **SQLD** | `2024.06` | 한국데이터진흥원 |
 | **네트워크관리사 2급** | `2022.11` | 한국정보통신자격협회 |
 
